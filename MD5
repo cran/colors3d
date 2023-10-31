@@ -1,0 +1,16 @@
+7f3015ed07816866459ad42076192de2 *DESCRIPTION
+094ecd47ec2638b981519cf3b4b5886d *LICENSE
+8d23914aaa79457e5f31c7b2e7bf0bd1 *NAMESPACE
+60bd2e6799cb2a5c7e32607dcc118e82 *NEWS.md
+c29f514235886190209f7f9f552f9866 *R/colors3d-package.R
+7b28b4d5a4b16240d4c52ff7f83ff83d *R/functions.R
+95f08819354933a73a61fa6ccf5c32e7 *README.md
+c0bb2746df54df1cb4e8c430da35cc24 *man/colors2d.Rd
+c705954e6485b702bfe62c8352ec459b *man/colors3d-package.Rd
+4ff93d02416c0a89f6093d6b0f0383f0 *man/colors3d.Rd
+ab7d0550772ce496e17621d29d5e06fe *man/colorwheel2d.Rd
+327aa0488a94e5bc7053b9a639914b76 *man/distant_colors.Rd
+b2919ab4f099a0bf14269af0f3b684c9 *man/figures/README-example-1.png
+2283c0b4f4b82be3fa7ab91e6476b7d2 *man/figures/README-example-2.png
+590633a2ae6d8ad09d8b83fc31a7cdff *man/figures/README-example2-1.png
+6818ea46d7d6a4c11b2a9c2e4c21e370 *man/polarize.Rd
